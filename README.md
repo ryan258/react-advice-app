@@ -1,3 +1,5 @@
+In this project we're using the [AdviceSlip API - https://api.adviceslip.com/](https://api.adviceslip.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
