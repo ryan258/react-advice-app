@@ -34,7 +34,7 @@ export default class App extends Component {
       <div className="app">
         <div className="card">
           <h3 className="heading">{advice}</h3>
-          <button className="button">
+          <button className="button" onClick={this.fetchAdvice}>
             <span>GIVE ME ADVICE!</span>
           </button>
         </div>
